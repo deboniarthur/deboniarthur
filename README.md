@@ -11,6 +11,7 @@
 <p>➥ FrameWorks 🧠</p>
 <p>➥ Programação Orientada a objetos 🕹</p>
 <p>➥ Arquitetura de Software ⛓</p>
+<p>➥ Engenharia de Software 💻</p>
 &nbsp;
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deboniarthur&theme=radical&mode=weekly" />
