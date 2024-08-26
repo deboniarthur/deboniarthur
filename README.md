@@ -7,8 +7,8 @@
 &nbsp;
 <p>Tenho interesse em:</p>
 &nbsp;
-<p>➥ Desenvolvimento Back-End 💡</p>
-<p>➥ FrameWorks 🧠</p>
+<p>➥ Cloud 💡</p>
+<p>➥ Análise de Dados 🧠</p>
 <p>➥ Programação Orientada a objetos 🕹</p>
 <p>➥ Arquitetura de Software ⛓</p>
 <p>➥ Engenharia de Software 💻</p>
