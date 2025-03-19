@@ -7,10 +7,12 @@
 &nbsp;
 <p>Tenho interesse em:</p>
 &nbsp;
-<p>➥ Cloud 💡</p>
-<p>➥ Análise de Dados 🧠</p>
-<p>➥ Arquitetura de Software ⛓</p>
-<p>➥ MySQL | Data Science | PowerBI | Python | IT Support 💻</p>
+<p>➥ Cloud Computing💡</p>
+<p>➥ Análise e Ciência de Dados 🧠</p>
+<p>➥ Cibersegurança ⛓</p>
+<p>➥ Gestão de Projetos (PMO)  🌐</p>
+<p>➥ Otimização de processos  🦾</p>
+<p>➥ SQL | Data | PowerBI | Python | IT Support 💻</p>
 &nbsp;
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deboniarthur&theme=radical&mode=weekly" />
